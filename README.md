@@ -1,2 +1,2 @@
 # Exercises
-Solutions to some exercises. Written in C++.
+Solutions to some small exercises. Written in C++.
